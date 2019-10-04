@@ -1,0 +1,8 @@
+D:\C#Net\Client_Server\Client_Server\bin\Debug\Client_Server.exe.config
+D:\C#Net\Client_Server\Client_Server\bin\Debug\Client_Server.exe
+D:\C#Net\Client_Server\Client_Server\bin\Debug\Client_Server.pdb
+D:\C#Net\Client_Server\Client_Server\obj\Debug\Client_Server.Client.resources
+D:\C#Net\Client_Server\Client_Server\obj\Debug\Client_Server.Properties.Resources.resources
+D:\C#Net\Client_Server\Client_Server\obj\Debug\Client.csproj.GenerateResource.cache
+D:\C#Net\Client_Server\Client_Server\obj\Debug\Client_Server.exe
+D:\C#Net\Client_Server\Client_Server\obj\Debug\Client_Server.pdb
